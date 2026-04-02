@@ -1,0 +1,9 @@
+[
+  "tests/test_grouper.py::test_clean_response_leaves_plain_json_unchanged",
+  "tests/test_grouper.py::test_clean_response_strips_json_markdown",
+  "tests/test_grouper.py::test_clean_response_strips_whitespace",
+  "tests/test_grouper.py::test_validate_output_catches_missing_field",
+  "tests/test_grouper.py::test_validate_output_catches_missing_transaction",
+  "tests/test_grouper.py::test_validate_output_catches_unexpected_item",
+  "tests/test_grouper.py::test_validate_output_passes_when_all_items_grouped"
+]
